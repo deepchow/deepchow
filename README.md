@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepchow
+- 👋 Hi, I’m @deep tej
 - 👀 I’m interested in ...Learning Devops 
 - 🌱 I’m currently learning ...Git hub 
 - 💞️ I’m looking to collaborate on ...
